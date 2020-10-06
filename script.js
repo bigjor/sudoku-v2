@@ -210,7 +210,7 @@ let sudokus = [
         done: false
     },
     {
-        template: `
+        template: ` 
         276314958
         854962713
         913875264
